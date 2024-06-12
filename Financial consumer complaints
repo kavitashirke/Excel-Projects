@@ -1,1 +1,10 @@
-
+Hi everyone,
+I am sharing a project I recently completed.
+-Built interactive dashboard: Utilized Microsoft Excel to create a real-time view of Financial consumer complaints
+In this project, I used a dataset of a company's finances related complaints, cleaned the data in Excel, created some pivot tables of interesting insights, and used the pivot tables to create a dashboard.
+Here is the Link of my project,
+https://1drv.ms/x/c/809a7e58428e5d00/Ef_lwR2wmxFJklBjV7iqfS8BE-0_9hjM8YGPKRrX5otKjg?e=6BxNL
+#Things_i_learnt
+- Effective usage of pivot charts
+- Creating calculated columns
+- Understanding the business requirement based on the data
